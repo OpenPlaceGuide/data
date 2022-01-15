@@ -1,3 +1,13 @@
 osm:
    id: 162817836
    type: way
+
+logo: "bandira-logo.png"
+
+gallery:
+  - file: "Group-Photo-of-Team-AddisMap.com.jpg"
+    en: "Team AddisMap - at the Opening of the 5th ICT Exhibition"
+    am: "ቡድን AddisMap - በ5ኛው የአይሲቲ ኤግዚቢሽን መክፈቻ"
+  - file: "mapping-party-group-pictures.jpg"
+    en: "Map Up Addis!- Group Pictures of Participants"
+    am: "አዲስ አበባን በካርታ እናስቀምጥ - በሚል በተዘጋጀው የማህበረሰብ ፕሮግራም ተሳታፊች የቡድን ፎቶ"
