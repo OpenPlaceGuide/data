@@ -1,0 +1,135 @@
+id;isPlace;key;value;page;name:en;plural:en;name:am;plural:am;name:de;plural:de
+1;FALSE;amenity;bank;banks;Bank;Banks;ባንክ;ባንኮች;Bank;Banken
+2;FALSE;amenity;atm;banks;ATM;ATMs;ፈጣን የገንዘብ ማሽን;ፈጣን የገንዘብ ማሽኖች;Geldautomat;Geldautomaten
+3;FALSE;amenity;arts_centre;art-centers;Arts;Arts;የኪነጥበብ ማዕከል;የኪነጥበብ ማዕከላት ;Kunstladen;Kunstläden
+4;FALSE;amenity;cinema;cinemas;Cinema;Cinemas;ሲኒማ ቤት;ሲኒማ ቤቶች;Kino;Kinos
+5;FALSE;amenity;theatre;theatres;Theatre;Teatres;ቲያትር ቤት;ቲያትር ቤቶች;Theater;Theater
+6;FALSE;amenity;studio;studios;Studio;Studios;ስቱዲዮ;ስቱዲዮዎች;Studio;Studios
+7;FALSE;amenity;cafe;cafes;Cafe;Cafes;ሻይ ቤት;ሻይ ቤቶች ;Cafe;Cafes
+8;FALSE;amenity;fast_food;fast-food;Fast Food;Fast Food;ፈጣን ምግብ;ፈጣን ምግቤቶች;Fast Food;Fast Food Restaurants
+9;FALSE;amenity;pub;pubs;Pub;Pubs;ፐብ;ፐቦች;Kneipe;Kneipen
+10;FALSE;amenity;nightclub;nightclubs;Nightclub;Nightclubs;የምሽት ክለብ;የምሽት ክለቦች;Club;Clubs
+11;FALSE;amenity;restaurant;restaurants;Restaurant;Restaurants;ምግብ ቤት;ምግብ ቤቶች;Restaurant;Restaurants
+12;FALSE;amenity;bar;bars;Bar;Bars;ቡና ቤት;ቡና ቤቶች;Bar;Bars
+13;FALSE;amenity;car_rental;rent-a-car;Car;Car Rentals;የመኪና ማከራያ;የመኪና ማከራያዎች;Autovermietung;Autovermietungen
+14;FALSE;amenity;car_sharing;car-sharing;Car;Car Sharing;የመኪና ዕቃ መለዋወጫ መሸጫ;የመኪና መለዋወጫ ዕቃ መሸጫዎች  ;Carsharing;Carsharing
+15;FALSE;amenity;fuel;get-fuel;FuelStation;Fuel-Stations;ነዳጅ ማደያ;ነዳጅ ማደያዎች ;Tankstelle;Tankstellen
+16;FALSE;amenity;bus_station;bus-stations;Bus;Bus Stations;አውቶቡስ መናኃሪያ;አውቶቡስ መናኃሪያዎች;Bushaltestelle;Bushaltestellen
+17;FALSE;amenity;parking;parking;Parking;Parking Places;የመኪና ማቆሚያ;የመኪና ማቆሚያዎች;Parken;Parken
+18;FALSE;amenity;taxi;taxi;Taxi;Taxis;ታክሲ;ታክዎች;Taxi;Taxen
+19;FALSE;amenity;embassy;embassies;Embassy;Embassies;ኤምባሲ;ኤምባሲዎች;Botschaft;Botschaften
+20;FALSE;amenity;courthouse;courthouses;Courthouse;Courthouses;ፍርድ ቤት;ፍርድ ቤት;Gericht;Gerichte
+21;FALSE;amenity;fire_station;fire-stations;Fire;Fire Stations;እሳትና ድንገተኛ አደጋዎች መከላከያ;እሳትና ድንገተኛ አደጋ መከላከያ ጣቢዎች  ;Feuerwehr;Feuerwehren
+22;FALSE;amenity;prison;prisons;Prison;Prisons;እስር ቤት;እስር ቤቶች;Gefängnis;Gefängnisse
+23;FALSE;amenity;police;police-stations;Police;Police Stations;ፖሊስ ጣቢያ;ፖሊስ ጣቢያዎች;Polizei;Polizei
+24;FALSE;amenity;dentist;dentists;Dentist;Dentists;የጥርስ ሃኪም;የጥርስ ሃኪሞች;Zahnarzt;Zahnärtze
+25;FALSE;amenity;doctors;doctors;Doctors;Doctors;ክሊኒክ;ክሊኒኮች;Ärztehaus;Ärztehäuser
+26;FALSE;amenity;hospital;hospitals;Hospital;Hospitals;ሆስፒታል;ሆስፒታሎች;Krankenhaus;Krankenhäuser
+27;FALSE;amenity;pharmacy;pharamcies;Pharmacy;Pharmacies;መድሃኒት ቤት;መድሃኒት ቤቶች;Apotheke;Apotheken
+28;FALSE;amenity;veterinary;verterinaries;Veterinary;Verterinaries;የእንስሳት መድሃኒት ቤት;የእንስሳት መድሃኒት ቤቶች;Tierarzt;Tierärzte
+29;FALSE;amenity;place_of_worship;churches-mosques;Church or Mosque;Churches & Mosques;የእምነት ቦታ;የእምነት ቦታዎች;Kirche/Moschee;Kirchen/Moscheen
+30;FALSE;amenity;grave_yard;grave-yards;Grave Yard;Grave Yards;የቀብር ቦታ;የቀብር ቦታዎች ;Friedhof;Friedhöfe
+31;FALSE;amenity;kindergarten;kindergartens;Kindergarten;Kindergartens;ሕፃናት መዋያ;ሕፃናት መዋያዎች;Kindergarten;Kindergärten
+32;FALSE;amenity;university;universities;University;Universities;ዩኒቨርሲቲ;ዩኒቨርሲቲዎች;Universität;Universitäten
+33;FALSE;amenity;school;schools;School;Schools;ትምህርት ቤት;ትምህርት ቤቶች;Schule;Schulen
+34;FALSE;amenity;college;colleges;College;Colleges;ኮሌጅ;ኮሌጆች;College;Colleges
+35;FALSE;amenity;library;libraries;Library;Libraries;ቤተ-መፃሕፍት;ቤተ-መፃሕፍቶች;Bibliothek;Bibliotheken
+36;FALSE;amenity;post_box;post-boxes;Post Box;Post Boxes;ፖስታ ሳጥን;ፖስታ ሳጥኖች;Briefkasten;Briefkästen
+37;FALSE;amenity;post_office;post-offices;Post Office;Post Offices;ፖስታ ቤት;ፖስታ ቤቶች;Postamt;Postämter
+38;FALSE;amenity;telephone;public-telephones;Telephone;Telephones;የህዝብ ስልክ;የህዝብ ስልኮች;Telefon;Telefone
+39;FALSE;amenity;toilets;public-toilets;Toilets;Toilets;መፀዳጃ ቤት;መፀዳጃ ቤቶች;Toiletten;Toiletten
+40;TRUE;amenity;public_building;public-buildings;Public Building;Public Buildings;የህዝብ ህንፃ;የህዝብ ህንፃዎች;Gebäude;Gebäude
+41;FALSE;shop;furniture;furniture-shops;Furniture;Furniture Shops;የቤትና የቢሮ ዕቃዎች መሸጫ;የቤትና የቢሮ ዕቃ መሸጫዎች ;Möbelhaus;Möbelhäuser
+42;FALSE;shop;supermarket;supermarkets;Supermarket;Supermarkets;የገበያ ማዕከል;የገበያ ማዕከላት ;Supermarkt;Supermärkte
+43;FALSE;shop;kiosk;kiosks;Kiosk;Kiosks;አነስተኛ ሱቅ;አነስተኛ ሱቆች;Kiosk;Kiosks
+44;FALSE;shop;butcher;butchers;Butcher;Butchers;ሥጋ ቤት;ሥጋ ቤቶች;Metzger;Metzger
+45;FALSE;shop;beverages;beverages-shops;Beverages;Beverage Stores;የለስላሳ መጠጦች ማከፋፈያ;የለስላሳ መጠጥ ማከፋፈያዎች ;Getränkhandel;Getränkhandel
+46;FALSE;shop;organic;organic-shops;Organic;Organic Stores;አትክልት መደብር;አትክልት መደብሮች;Bioladen;Bioläden
+47;FALSE;shop;car;car-shops;Car;Car Shops;መኪና መሸጫ;መኪና መሸጫዎች;Auto;Auto
+48;FALSE;shop;car_repair;car-repair;Car;Car Garages;ጋራዥ;ጋራዦች;Autowerkstatt;Autowerkstätten
+49;FALSE;shop;clothes;buy-clothes;Clothes;Clothes Stores;ልብስ ቤት;ልብስ ቤቶች;Modehaus;Modehäuser
+50;FALSE;shop;shoes;shoe-shops;Shoes;Shoe Stores;ጫማ ቤት;ጫማ ቤቶች;Schuhladen;Schuhläden
+51;FALSE;shop;optician;opticians;Optician;Opticians;መነፅር ቤት;መነፅር ቤቶች;Optiker;Optiker
+52;FALSE;shop;hairdresser;hairdressers;Hairdresser;Hairdressers;ፀጉር ቤት;ፀጉር ቤቶች;Frisör;Frisöre
+53;FALSE;shop;doityourself;diy-shops;Doityourself;Doityourself Stores;;;Baumarkt;Baumärkte
+54;FALSE;shop;dry_cleaning;dry-cleaners;Dry Cleaner;Dry Cleaners;ደረቅ እጥበት;ደረቅ እጥበቶች;Reinigung;Reinigung
+55;FALSE;shop;laundry;laundries;Laundry;Laundries;የልብስ ንጽህና መስጫ;የልብስ ንጽህና መስጫዎች;Waschsalon;Waschsalons
+56;FALSE;shop;electronics;electronics;Electronics;Electronic Stores;ኤሌክትሮኒክስ መሸጫ ሱቅ;ኤሌክትሮኒክስ መሸጫ ሱቆች;Elektronikhandel;Elektronikhandel
+57;FALSE;shop;florist;buy-flowers;Florist;Florists;የአበባ መሸጫ;የአበባ መሸጫዎች ;Florist;Floristen
+58;FALSE;shop;hardware;hardware;Hardware;Hardware Stores;ሲኒማ ቤት;ሲኒማ ቤቶች;Baumarkt;Baumärkte
+59;FALSE;shop;computer;computer-shops;computer;Computer Shops;ኮምፒውተር;ኮምፒውተር መሸጫዎች ;Computerladen;Computerläden
+60;FALSE;shop;books;book-shops;Books;Book Shops;መፃሕፍት መሸጫ;መፃሕፍት መሸጫዎች ;Buchhandel;Buchhändler
+61;FALSE;shop;stationery;stationaries;Stationary;Stationaries;የጽሕፈት መሳሪያ መሸጫ;የጽሕፈት መሳሪያ መሸጫዎች ;Schreibwaren;Schreibwarenläden
+62;FALSE;shop;video;rent-a-video;Video;Video Stores;ቪዲዮ;ቪዲዮ ሱቆች  ;Videothek;Videotheken
+63;TRUE;leisure;stadium;stadiums;Stadium;Stadiums;ስታዲዩም;ስታዲየሞች ;Stadion;Stadien
+64;FALSE;leisure;golf_course;golf-courses;Golf Course;Golf Courses;የጎልፍ መጫወቻ;የጎልፍ መጫወቻዎች;Golfplatz;Golfplätze
+65;FALSE;leisure;garden;gardens;Garden;Gardens;መናፈሻ;መናፈሻዎች;Garten;Gärten
+66;FALSE;sport;football;football-fields;Football;Football Fields;እግር ኳስ;እግር ኳስ;Fußball;Fußball
+67;FALSE;sport;swimming;swimming-pools;Swimming;Swimming Pools;ዋና;ዋና;Schwimmbad;Schwimmbäder
+68;FALSE;sport;tennis;tennis-courts;Tennis;Tennis Courts;ቴኒስ;ቴኒስ;Tennisplatz;Tennisplätze
+69;FALSE;sport;gymnastic;gyms;Gymnastic;Gyms;ጅምናስቲክ;ጅምናስቲክ;Fitnessstudio;Fitnessstudios
+70;FALSE;tourism;zoo;zoos;Zoo;Zoos;የእንስሳት ግቢ;የእንስሳት ግቢዎች ;Zoo;Zoos
+71;FALSE;tourism;museum;museums;Museum;Museums;ሙዚየም;ሙዚየሞች ;Museum;Museen
+72;FALSE;tourism;guest_house;guest-houses;Guest House;Guest Houses;እንግዳ ማረፊያ;እንግዳ ማረፊያዎች ;Gästehaus;Gästehäuser
+73;FALSE;tourism;hostel;hostels;Hostel;Hostels;ሆስቴል;ሆስቴሎች ;Hostel;Hostels
+74;FALSE;tourism;hotel;hotels;Hotel;Hotels;ሆቴል;ሆቴሎች;Hotel;Hotels
+75;FALSE;tourism;motel;motels;Motel;Motels;ሞቴል;ሞቴሎች;Motel;Motels
+76;TRUE;place;city;cities;City;Cities;ከተማ;ከተማዎች;Stadt;Städte
+77;TRUE;place;hamlet;cities2;City;Cities;ከተማ;ከተማዎች ;Stadt;Städte
+78;TRUE;place;subcity;subcities;Subcity;Subcities;ክፍለ ከተማ;ክፍለ ከተማዎች ;Stadteil;Stadtteile
+79;TRUE;highway;primary;main-streets;Main Street;Main Streets;ዋና መንገድ;ዋና መንገዶች ;Hauptstraße;Haupstraßen
+80;TRUE;highway;secondary;secondary-streets;Street;Secondary Streets;ሁለተኛ መንገድ;ሁለተኛ መንገዶች ;Straße;Straßen
+81;TRUE;highway;tertiary;tertiary-streets;Street;Tertiary Streets;ተለዋጭ መንገድ;ተለዋጭ መንገዶች ;Straße;Straßen
+82;TRUE;highway;residential;residential-roads;Residential Road;Residential Roads;የመኖሪያ አካባቢ መንገድ;የመኖሪያ አካባቢ መንገዶች ;Wohngebiet;Wohngebiete
+9999;FALSE;business;yes;businesses;Business;Businesses;ንግድ ;ንግድ ስራዎች  ;Geschäft;Geschäfte
+83;TRUE;place;suburb;areas;Area;Areas;አካባቢ;አካባቢዎች;Bezirk;Bezirke
+84;TRUE;building;yes;buildings;Building;Buildings;ህንፃ;ህንፃዎች ;Gebäude;Gebäude
+85;FALSE;internet_access;terminal;internet-cafes;Internet Cafe;Internet Cafes;ኢንተርኔት ካፌ;ኢንተርኔት ካፌዎች;Internet Cafe;Internet Cafes
+86;FALSE;office;ngo;ngos;Non-Governmental-Organisation (NGO);Non-Governmental-Organisations (NGOs);መንግስታዊ ያልሆነ ድርጅት;መንግስታዊ ያልሆኑ ድርጅቶች ;Nichtregierungsorganisation;Nichtregierungsorganisationen
+87;FALSE;office;governmental;governmental-offices;Governmental Office;Governmental Offices;የመንግስት ድርጅት;የመንግስት ድርጅቶች;Behörde;Behörden
+88;FALSE;aeroway;aerodrome;airports;Airport;Airports;አየር ማረፊያ;አየር ማረፊያዎች ;Flughafen;Flughäfen
+99;FALSE;sport;10pin;bowling;Bowling;Bowling Facilities;ቦውሊንግ መጫወቻ;ቦውሊንግ መጫወቻዎች ;Bowlingbahn;Bowlingbahnen
+100;FALSE;shop;greengrocer;greengrocer;Greengrocer;Greengrocers;አትክልት መሸጫ ሱቆች;አትክልት መሸጫ ሱቆች;Gemüsehändler;Gemüsehändler
+101;FALSE;landuse;industrial;industrial;Industry;Industries;ኢንዱስትሪ;ኢንዱስትሪዎች ;Industrie;Industrien
+102;FALSE;amenity;community_centre;community-center;Community Center;Community Centers;የማህበረሰብ ማዕከል;የማህበረሰብ ማዕከላት;;
+103;FALSE;shop;department_store;department-stores;Department Store;Department Stores;የተደራጀ ግዙፍ ማከፋፈያ;የተደራጁ ግዙፍ ማከፋፈያዎች;;
+104;FALSE;building;house;houses;Residential House;Residential Houses;የመኖሪያ ቤት;የመኖሪያ ቤቶች ;;
+105;FALSE;office;estate_agent;estate-agents;Real Estate Agent ;Real Estates Agents;የሪል እስቴት ወኪል;የሪል እስቴት ወኪሎች;;
+106;FALSE;office;insurance;insurances;Insurance;Insurances;ኢንሹራንስ;ኢንሹራንሶች;;
+107;FALSE;building;industrial;industrials;Industrial Office;Industrial Offices;የኢንዱስትሪ ቢሮ;የኢንዱስትሪ ቢሮ ;;
+108;FALSE;building;apartments;apartments;Apartment;Apartments;የመኖሪያ ቤት;የመኖሪያ ቤቶች ;;
+109;FALSE;building;house;houses;House;Houses;ቤት;ቤቶች;;
+110;FALSE;shop;massage;massages;Massage;Massages;ማሳጅ ቤት;ማሳጅ ቤቶች;;
+111;FALSE;shop;beauty;beauty/spas;Beauty/Spa;Beauty/Spas;ውበት / ስፓ;ውበቶች / ስፓዎች;;
+112;FALSE;building;office;offices;Office;Offices;ቢሮ;ቢሮዎች;;
+113;FALSE;amenity;biergarten;biergartens;Biergarten;Biergartens;;;;
+114;FALSE;amenity;food_court;food-courts;Food-court;Food-courts;;;;
+115;FALSE;amenity;ice_cream;Ice-creams;Ice-Cream;Ice-Creams;አይስ ክሬም;አይስ ክሬሞች;;
+116;FALSE;amenity;music_school;music-schools;Music School;Music Schools;የሙዚቃ ትምህርት ቤት;የሙዚቃ ትምህርት ቤቶች;;
+117;FALSE;amenity;driving_school;driving-schools;Driving School;Driving Schools;የመኪና ትምህርት ቤት;የመኪና ትምህርት ቤቶች;;
+118;FALSE;amenity;bicycle_repair_station;bicycle-repair-stations;Bicycle Repair Station;Bicycle Repair Stations;ቢስክሌት ጠጋኝ;ቢስክሌት ጠጋኞች;;
+119;FALSE;amenity;bureau_de_change;bureau-de-changes;Bureau De Change;Bureau De Changes;የውጭ ምንዛሬ ቢሮ;የውጭ ምንዛሬ ቢሮዎች;;
+120;FALSE;amenity;clinic;clinics;Clinic;Clinic;ክሊኒክ;ክሊኒኮች;;
+121;FALSE;amenity;marketplace;marketplaces;Marketplace;Marketplaces;የገበያ ቦታ;የገበያ ቦታዎች;;
+122;FALSE;building;commercial;commercial-buildings;Commercial Building;Commercial Buildings;የንግድ ህንፃ;የንግድ ህንፃዎች;;
+123;FALSE;building;retail;retail-buildings;Retail Building;Retail Buildings;የችርቻሮ ህንፃ;የችርቻሮ ህንፃዎች;;
+124;FALSE;building;warehouse;warehouses;Warehouse;Warehouses;የዕቃ ቤት;የዕቃ ቤቶች;;
+125;FALSE;office;accountant;accountants;Accountant;Accountants;ሒሳብ ሠራተኛ;ሒሳብ ሠራተኞች;;
+126;FALSE;office;administrative;administrative-offices;Administrative Office;Administrative Offices;አስተዳደር ቢሮ;አስተዳደር ቢሮዎች;;
+127;FALSE;office;advertising_agency;advertising-agencies;Advertising Agency;Advertising Agencies;የማስታወቂያ ድርጅት;የማስታወቂያ ድርጅቶች;;
+128;FALSE;office;architect;architects;Architect;Architects;አርኪቴክት;አርኪቴክቶች;;
+129;FALSE;office;association;associations;Association;Associations;ማኅበር;ማኅበራት;;
+130;FALSE;office;company;companies;Company;Companies;ኩባንያ;ኩባንያዎች;;
+131;FALSE;office;educational_institution;educational-institutions;Educational Institution;Educational Institutions;የትምህርት ተቋም;የትምህርት ተቋማት;;
+132;FALSE;office;employment_agency;employment-agencies;Employment Agency;Employment Agencies;የስራ ቅጥር ኤጀንሲ;የስራ ቅጥር ኤጀንሲዎች;;
+133;FALSE;office;foundation;foundations;Foundation;Foundations;ተቋም;ተቋማት;;
+134;FALSE;office;insurance;insurances;Insurance;Insurances;ኢንሹራንስ;ኢንሹራንሶች;;
+135;FALSE;office;it;it;IT;IT;አይ.ቲ.;አይ.ቲዎች.;;
+136;FALSE;office;lawyer;lawyers;Lawyer;Lawyers;ጠበቃ;ጠበቃዎች;;
+137;FALSE;office;newspaper;newspapers;Newspaper;Newspapers;ጋዜጣ;ጋዜጦች;;
+138;FALSE;office;religion;religions;Religion;Religions;ሃይማኖት;ሃይማኖት;;
+139;FALSE;office;research;researches;Research Office;Research Offices;ምርምር ቢሮ;ምርምር ቢሮዎች;;
+140;FALSE;office;tax;taxes;Tax;Taxes;ግብር ሰብሳቢ ቢሮ;ግብር ሰብሳቢ ቢሮዎች;;
+141;FALSE;office;telecommunication;telecommunications;Telecommunication;Telecommunications;ቴሌኮሙኒኬሽን;ቴሌኮሙኒኬሽን;;
+142;FALSE;office;travel_agent;travel-agents;Travel Agent;Travel Agents;የጉዞ ወኪል;የጉዞ ወኪሎች;;
+143;FALSE;shop;electrical;electrical;Electrical Material;Electrial Material Stores;የኤሌትሪክ ዕቃዎች መሸጫ;የኤሌትሪክ ዕቃዎች መሸጫ;Elektrofachhandel;Elektofachhandel
