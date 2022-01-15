@@ -5,7 +5,7 @@ id,isPlace,key,value,page,name:en,plural:en,name:am,plural:am,name:de,plural:de
 4,FALSE,amenity,cinema,cinemas,Cinema,Cinemas,ሲኒማ ቤት,ሲኒማ ቤቶች,Kino,Kinos
 5,FALSE,amenity,theatre,theatres,Theatre,Teatres,ቲያትር ቤት,ቲያትር ቤቶች,Theater,Theater
 6,FALSE,amenity,studio,studios,Studio,Studios,ስቱዲዮ,ስቱዲዮዎች,Studio,Studios
-7,FALSE,amenity,cafe,cafes,Cafe,Cafes,ሻይ ቤት,ሻይ ቤቶች ,Cafe,Cafes
+7,FALSE,amenity,cafe,cafes,Cafe,Cafes,ሻይ ቤት,ሻይ ቤቶች,Cafe,Cafes
 8,FALSE,amenity,fast_food,fast-food,Fast Food,Fast Food,ፈጣን ምግብ,ፈጣን ምግቤቶች,Fast Food,Fast Food Restaurants
 9,FALSE,amenity,pub,pubs,Pub,Pubs,ፐብ,ፐቦች,Kneipe,Kneipen
 10,FALSE,amenity,nightclub,nightclubs,Nightclub,Nightclubs,የምሽት ክለብ,የምሽት ክለቦች,Club,Clubs
