@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openplaceguide.org/place.schema.json",
+  "title": "Area",
+  "description": "Place for OpenPlaceGuide",
+  "type": "object",
+  "properties": {
+    "logo": {
+      "description": "Logo in media folder",
+      "type": "string"
+    },
+    "gallery": {
+      "description": "Gallery",
+      "type": "array"
+    },
+    "osm": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "description": "OSM Object ID",
+          "type": "integer"
+        },
+        "type": {
+          "description": "OSM Object type",
+          "type": "string",
+          "enum": [
+            "point",
+            "way",
+            "relation"
+          ]
+        }
+      }
+    },
+    "osmBranches": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "description": "OSM Object ID",
+            "type": "integer"
+          },
+          "type": {
+            "description": "OSM Object type",
+            "type": "string",
+            "enum": [
+              "point",
+              "way",
+              "relation"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "oneOf": [
+    {
+      "required": [
+        "osm"
+      ]
+    },
+    {
+      "required": [
+        "osmBranches"
+      ]
+    }
+  ]
+}

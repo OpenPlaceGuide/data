@@ -1,0 +1,12 @@
+{
+    "name": "openplaceguide-discover",
+    "version": "1.0.0",
+    "author": "Alexander <alex@addismap.com>",
+    "license": "AGPL-3.0-or-later",
+    "dependencies": {
+        "ajv-cli": "^5.0.0"
+    },
+    "scripts": {
+        "validate": "ls places/*/place.yaml | xargs -n1 node_modules/.bin/ajv --allowUnionTypes --spec=draft2020  -s place.schema.json -d"
+    }
+}
