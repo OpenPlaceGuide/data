@@ -1,4 +1,4 @@
-# data
+# OpenPlaceGuide - Sample Data for Ethiopia
 
 Sample Business Data Repository
 
