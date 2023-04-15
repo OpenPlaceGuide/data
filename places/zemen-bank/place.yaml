@@ -1,23 +1,23 @@
 osmBranches:
-  - type: point
+  - type: node
     id: 3959878839
   - type: way
     id: 798092378
-  - type: point
+  - type: node
     id: 4805107327
-  - type: point
+  - type: node
     id: 6786418421
-  - type: point
+  - type: node
     id: 6745397107
-  - type: point
+  - type: node
     id: 6715750855
-  - type: point
+  - type: node
     id: 5645355927
-  - type: point
+  - type: node
     id: 774899694
-  - type: point
+  - type: node
     id: 6884309685
-  - type: point
+  - type: node
     id: 262991780
 
 logo: "zemen_bank.svg"

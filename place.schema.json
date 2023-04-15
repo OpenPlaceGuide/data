@@ -24,7 +24,7 @@
           "description": "OSM Object type",
           "type": "string",
           "enum": [
-            "point",
+            "node",
             "way",
             "relation"
           ]
@@ -44,7 +44,7 @@
             "description": "OSM Object type",
             "type": "string",
             "enum": [
-              "point",
+              "node",
               "way",
               "relation"
             ]
