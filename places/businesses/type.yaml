@@ -1,0 +1,12 @@
+sort: 9999
+tags:
+  - key: business
+    value: yes
+name:
+  en: business
+  am: ንግድ
+  de: Geschäft
+plural:
+  en: businesses
+  am: ንግድ ስራዎች
+  de: Geschäfte
