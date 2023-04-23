@@ -11,14 +11,17 @@ jobs:
         with:
           cmd: install
       - name: Schema Validation of Places
+        if: always()
         uses: borales/actions-yarn@v4
         with:
           cmd: validate-places
       - name: Schema Validation of Types
+        if: always()
         uses: borales/actions-yarn@v4
         with:
           cmd: validate-types
       - name: Schema Validation of Areas
+        if: always()
         uses: borales/actions-yarn@v4
         with:
           cmd: validate-areas
