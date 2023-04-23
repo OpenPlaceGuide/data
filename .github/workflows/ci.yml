@@ -13,4 +13,12 @@ jobs:
       - name: Schema Validation of Places
         uses: borales/actions-yarn@v4
         with:
-          cmd: validate
+          cmd: validate-places
+      - name: Schema Validation of Types
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: validate-types
+      - name: Schema Validation of Areas
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: validate-areas

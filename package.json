@@ -7,6 +7,8 @@
         "ajv-cli": "^5.0.0"
     },
     "scripts": {
-        "validate": "ls places/*/place.yaml | xargs -n1 node_modules/.bin/ajv --allowUnionTypes --spec=draft2020  -s place.schema.json -d"
+        "validate-places": "ls places/*/place.yaml | xargs -n1 node_modules/.bin/ajv --allowUnionTypes --spec=draft2020  -s place.schema.json -d",
+        "validate-types": "ls places/*/type.yaml | xargs -n1 node_modules/.bin/ajv --allowUnionTypes --spec=draft2020  -s type.schema.json -d",
+        "validate-areas": "ls places/*/area.yaml | xargs -n1 node_modules/.bin/ajv --allowUnionTypes --spec=draft2020  -s area.schema.json -d"
     }
 }
