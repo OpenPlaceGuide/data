@@ -1,0 +1,11 @@
+tags:
+  - key: amenity
+    value: bank
+name:
+  en: bank
+  am: ባንክ
+  de: Bank
+plural:
+  en: banks
+  am: ባንኮች
+  de: Banken

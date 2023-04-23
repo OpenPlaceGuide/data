@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openplaceguide.org/place.schema.json",
+  "title": "Type",
+  "description": "POI Type for OpenPlaceGuide",
+  "type": "object",
+  "properties": {
+    "tags": {
+      "type": "array",
+      "description": "Multiple tags use the AND logic (all of them have to match)",
+      "items": {
+        "type": "object",
+        "properties": {
+          "key": {
+            "description": "Tag key",
+            "type": "string"
+          },
+          "value": {
+            "description": "Tag value (multiple possible values can be comma-separated)",
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "tags"
+  ]
+}
