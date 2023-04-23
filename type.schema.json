@@ -17,7 +17,7 @@
         "properties": {
           "key": {
             "description": "Tag key",
-            "type": "integer"
+            "type": "string"
           },
           "value": {
             "description": "Tag value (multiple possible values can be comma-separated)",
