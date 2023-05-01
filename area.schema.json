@@ -5,20 +5,21 @@
   "description": "POI Type for OpenPlaceGuide",
   "type": "object",
   "properties": {
-    "tags": {
-      "type": "array",
-      "description": "Multiple tags use the AND logic (all of them have to match)",
-      "items": {
-        "type": "object",
-        "properties": {
-          "key": {
-            "description": "Tag key",
-            "type": "string"
-          },
-          "value": {
-            "description": "Tag value (multiple possible values can be comma-separated)",
-            "type": "string"
-          }
+    "osm": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "description": "OSM Object ID",
+          "type": "integer"
+        },
+        "type": {
+          "description": "OSM Object type",
+          "type": "string",
+          "enum": [
+            "node",
+            "way",
+            "relation"
+          ]
         }
       }
     }
