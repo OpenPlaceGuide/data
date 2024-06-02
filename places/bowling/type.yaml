@@ -1,0 +1,13 @@
+color: gray
+icon: alcohol_shop
+name:
+  am: ቦውሊንግ መጫወቻ
+  de: Bowlingbahn
+  en: Bowling
+plural:
+  am: 'ቦውሊንግ መጫወቻዎች '
+  de: Bowlingbahnen
+  en: Bowling Facilities
+tags:
+- key: sport
+  value: 10pin

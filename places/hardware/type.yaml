@@ -1,0 +1,13 @@
+color: red
+icon: abseiling
+name:
+  am: ሲኒማ ቤት
+  de: Baumarkt
+  en: Hardware
+plural:
+  am: ሲኒማ ቤቶች
+  de: Baumärkte
+  en: Hardware Stores
+tags:
+- key: shop
+  value: hardware

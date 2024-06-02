@@ -1,0 +1,13 @@
+color: gray
+icon: aerialway_pole
+name:
+  am: ዋና መንገድ
+  de: Hauptstraße
+  en: Main Street
+plural:
+  am: 'ዋና መንገዶች '
+  de: Haupstraßen
+  en: Main Streets
+tags:
+- key: highway
+  value: primary

@@ -1,0 +1,13 @@
+color: blue
+icon: abseiling
+name:
+  am: ሆስፒታል
+  de: Krankenhaus
+  en: Hospital
+plural:
+  am: ሆስፒታሎች
+  de: Krankenhäuser
+  en: Hospitals
+tags:
+- key: amenity
+  value: hospital

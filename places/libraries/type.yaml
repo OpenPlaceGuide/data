@@ -1,0 +1,13 @@
+color: blue
+icon: yield
+name:
+  am: ቤተ-መፃሕፍት
+  de: Bibliothek
+  en: Library
+plural:
+  am: ቤተ-መፃሕፍቶች
+  de: Bibliotheken
+  en: Libraries
+tags:
+- key: amenity
+  value: library

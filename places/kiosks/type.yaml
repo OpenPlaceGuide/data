@@ -1,0 +1,13 @@
+color: red
+icon: zoo
+name:
+  am: አነስተኛ ሱቅ
+  de: Kiosk
+  en: Kiosk
+plural:
+  am: አነስተኛ ሱቆች
+  de: Kiosks
+  en: Kiosks
+tags:
+- key: shop
+  value: kiosk

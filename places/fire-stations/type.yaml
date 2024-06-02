@@ -1,0 +1,13 @@
+color: blue
+icon: accessible_space
+name:
+  am: እሳትና ድንገተኛ አደጋዎች መከላከያ
+  de: Feuerwehr
+  en: Fire
+plural:
+  am: 'እሳትና ድንገተኛ አደጋ መከላከያ ጣቢዎች  '
+  de: Feuerwehren
+  en: Fire Stations
+tags:
+- key: amenity
+  value: fire_station

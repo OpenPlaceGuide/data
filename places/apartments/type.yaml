@@ -1,0 +1,9 @@
+color: gray
+logo: apartments.png
+name:
+  en: apartment
+plural:
+  en: apartments
+tags:
+- key: building
+  value: apartments

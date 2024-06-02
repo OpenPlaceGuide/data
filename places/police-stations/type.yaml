@@ -1,0 +1,13 @@
+color: blue
+icon: abseiling
+name:
+  am: ፖሊስ ጣቢያ
+  de: Polizei
+  en: Police
+plural:
+  am: ፖሊስ ጣቢያዎች
+  de: Polizei
+  en: Police Stations
+tags:
+- key: amenity
+  value: police

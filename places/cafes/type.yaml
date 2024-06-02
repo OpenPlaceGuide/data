@@ -1,0 +1,13 @@
+color: blue
+logo: cafes.png
+name:
+  am: ሻይ ቤት
+  de: Cafe
+  en: Cafe
+plural:
+  am: 'ሻይ ቤቶች '
+  de: Cafes
+  en: Cafes
+tags:
+- key: amenity
+  value: cafe

@@ -1,0 +1,13 @@
+color: green
+icon: airport
+name:
+  am: ስታዲዩም
+  de: Stadion
+  en: Stadium
+plural:
+  am: 'ስታዲየሞች '
+  de: Stadien
+  en: Stadiums
+tags:
+- key: leisure
+  value: stadium

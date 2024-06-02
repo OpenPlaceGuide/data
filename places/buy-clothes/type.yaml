@@ -1,0 +1,13 @@
+color: red
+icon: zoo
+name:
+  am: ልብስ ቤት
+  de: Modehaus
+  en: Clothes
+plural:
+  am: ልብስ ቤቶች
+  de: Modehäuser
+  en: Clothes Stores
+tags:
+- key: shop
+  value: clothes

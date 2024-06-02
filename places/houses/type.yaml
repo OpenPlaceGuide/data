@@ -1,0 +1,9 @@
+color: gray
+icon: zoo
+name:
+  en: Residential House
+plural:
+  en: Residential Houses
+tags:
+- key: building
+  value: house

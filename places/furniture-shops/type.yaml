@@ -1,0 +1,13 @@
+color: red
+icon: accounting
+name:
+  am: የቤትና የቢሮ ዕቃዎች መሸጫ
+  de: Möbelhaus
+  en: Furniture
+plural:
+  am: 'የቤትና የቢሮ ዕቃ መሸጫዎች '
+  de: Möbelhäuser
+  en: Furniture Shops
+tags:
+- key: shop
+  value: furniture

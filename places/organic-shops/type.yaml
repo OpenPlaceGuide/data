@@ -1,0 +1,13 @@
+color: red
+icon: airport
+name:
+  am: አትክልት መደብር
+  de: Bioladen
+  en: Organic
+plural:
+  am: አትክልት መደብሮች
+  de: Bioläden
+  en: Organic Stores
+tags:
+- key: shop
+  value: organic

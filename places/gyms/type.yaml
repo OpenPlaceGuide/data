@@ -1,0 +1,13 @@
+color: gray
+icon: airfield
+name:
+  am: ጅምናስቲክ
+  de: Fitnessstudio
+  en: Gymnastic
+plural:
+  am: ጅምናስቲክ
+  de: Fitnessstudios
+  en: Gyms
+tags:
+- key: sport
+  value: gymnastic

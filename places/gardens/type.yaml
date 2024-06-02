@@ -1,0 +1,13 @@
+color: green
+icon: aerialway
+name:
+  am: መናፈሻ
+  de: Garten
+  en: Garden
+plural:
+  am: መናፈሻዎች
+  de: Gärten
+  en: Gardens
+tags:
+- key: leisure
+  value: garden

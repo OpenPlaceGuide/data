@@ -1,0 +1,13 @@
+color: yellow
+icon: abseiling
+name:
+  am: እንግዳ ማረፊያ
+  de: Gästehaus
+  en: Guest House
+plural:
+  am: 'እንግዳ ማረፊያዎች '
+  de: Gästehäuser
+  en: Guest Houses
+tags:
+- key: tourism
+  value: guest_house

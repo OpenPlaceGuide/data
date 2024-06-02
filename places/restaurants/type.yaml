@@ -1,0 +1,13 @@
+color: blue
+icon: abseiling
+name:
+  am: ምግብ ቤት
+  de: Restaurant
+  en: Restaurant
+plural:
+  am: ምግብ ቤቶች
+  de: Restaurants
+  en: Restaurants
+tags:
+- key: amenity
+  value: restaurant

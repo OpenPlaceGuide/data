@@ -1,0 +1,13 @@
+color: red
+icon: yield
+name:
+  am: መኪና መሸጫ
+  de: Autohändler
+  en: Car Shop
+plural:
+  am: መኪና መሸጫዎች
+  de: Autohändler
+  en: Car Shops
+tags:
+- key: shop
+  value: car

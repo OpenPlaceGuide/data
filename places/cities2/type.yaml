@@ -1,0 +1,13 @@
+color: gray
+icon: airport
+name:
+  am: ከተማ
+  de: Stadt
+  en: City
+plural:
+  am: 'ከተማዎች '
+  de: Städte
+  en: Cities
+tags:
+- key: place
+  value: hamlet

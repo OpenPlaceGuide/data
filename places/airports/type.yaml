@@ -1,0 +1,12 @@
+logo: airports.png
+name:
+  am: አየር ማረፊያ
+  de: Flughafen
+  en: Airport
+plural:
+  am: 'አየር ማረፊያዎች'
+  de: Flughäfen
+  en: Airports
+tags:
+- key: aeroway
+  value: aerodrome

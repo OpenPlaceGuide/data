@@ -1,0 +1,13 @@
+color: gray
+icon: american_football
+name:
+  am: ቴኒስ
+  de: Tennisplatz
+  en: Tennis
+plural:
+  am: ቴኒስ
+  de: Tennisplätze
+  en: Tennis Courts
+tags:
+- key: sport
+  value: tennis

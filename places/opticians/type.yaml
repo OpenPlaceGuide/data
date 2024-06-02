@@ -1,0 +1,13 @@
+color: red
+icon: yield
+name:
+  am: መነፅር ቤት
+  de: Optiker
+  en: Optician
+plural:
+  am: መነፅር ቤቶች
+  de: Optiker
+  en: Opticians
+tags:
+- key: shop
+  value: optician

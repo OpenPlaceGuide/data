@@ -1,0 +1,13 @@
+color: blue
+icon: accounting
+name:
+  am: የጥርስ ሃኪም
+  de: Zahnarzt
+  en: Dentist
+plural:
+  am: የጥርስ ሃኪሞች
+  de: Zahnärtze
+  en: Dentists
+tags:
+- key: amenity
+  value: dentist

@@ -1,0 +1,13 @@
+color: blue
+icon: adit_profile
+name:
+  am: ትምህርት ቤት
+  de: Schule
+  en: School
+plural:
+  am: ትምህርት ቤቶች
+  de: Schulen
+  en: Schools
+tags:
+- key: amenity
+  value: school

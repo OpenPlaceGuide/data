@@ -1,0 +1,13 @@
+color: blue
+icon: adit_profile
+name:
+  am: ፖስታ ሳጥን
+  de: Briefkasten
+  en: Post Box
+plural:
+  am: ፖስታ ሳጥኖች
+  de: Briefkästen
+  en: Post Boxes
+tags:
+- key: amenity
+  value: post_box

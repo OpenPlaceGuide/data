@@ -1,0 +1,11 @@
+name:
+  am: ሥጋ ቤት
+  de: Metzger
+  en: Butcher
+plural:
+  am: ሥጋ ቤቶች
+  de: Metzger
+  en: Butchers
+tags:
+- key: shop
+  value: butcher

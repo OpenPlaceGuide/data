@@ -1,0 +1,13 @@
+color: blue
+icon: yield
+name:
+  am: ዩኒቨርሲቲ
+  de: Universität
+  en: University
+plural:
+  am: ዩኒቨርሲቲዎች
+  de: Universitäten
+  en: Universities
+tags:
+- key: amenity
+  value: university

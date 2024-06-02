@@ -1,0 +1,13 @@
+color: blue
+icon: alcohol_shop
+name:
+  am: ሲኒማ ቤት
+  de: Kino
+  en: Cinema
+plural:
+  am: ሲኒማ ቤቶች
+  de: Kinos
+  en: Cinemas
+tags:
+- key: amenity
+  value: cinema

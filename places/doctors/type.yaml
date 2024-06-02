@@ -1,0 +1,13 @@
+color: blue
+icon: zoo
+name:
+  am: ክሊኒክ
+  de: Ärztehaus
+  en: Doctors
+plural:
+  am: ክሊኒኮች
+  de: Ärztehäuser
+  en: Doctors
+tags:
+- key: amenity
+  value: doctors

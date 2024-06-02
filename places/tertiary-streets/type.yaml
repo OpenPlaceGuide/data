@@ -1,0 +1,13 @@
+color: gray
+icon: abseiling
+name:
+  am: ተለዋጭ መንገድ
+  de: Straße
+  en: Street
+plural:
+  am: 'ተለዋጭ መንገዶች '
+  de: Straßen
+  en: Tertiary Streets
+tags:
+- key: highway
+  value: tertiary

@@ -1,0 +1,13 @@
+color: blue
+icon: adit_profile
+name:
+  am: የህዝብ ህንፃ
+  de: Gebäude
+  en: Public Building
+plural:
+  am: የህዝብ ህንፃዎች
+  de: Gebäude
+  en: Public Buildings
+tags:
+- key: amenity
+  value: public_building

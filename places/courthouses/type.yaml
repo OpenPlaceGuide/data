@@ -1,0 +1,13 @@
+color: blue
+icon: alcohol_shop
+name:
+  am: ፍርድ ቤት
+  de: Gericht
+  en: Courthouse
+plural:
+  am: ፍርድ ቤት
+  de: Gerichte
+  en: Courthouses
+tags:
+- key: amenity
+  value: courthouse

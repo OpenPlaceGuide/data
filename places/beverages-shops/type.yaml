@@ -1,0 +1,13 @@
+color: red
+icon: airport
+name:
+  am: የለስላሳ መጠጦች ማከፋፈያ
+  de: Getränkhandel
+  en: Beverages
+plural:
+  am: 'የለስላሳ መጠጥ ማከፋፈያዎች '
+  de: Getränkhandel
+  en: Beverage Stores
+tags:
+- key: shop
+  value: beverages

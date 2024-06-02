@@ -1,0 +1,13 @@
+color: red
+icon: aerialway_pole
+name:
+  am: የአበባ መሸጫ
+  de: Florist
+  en: Florist
+plural:
+  am: 'የአበባ መሸጫዎች '
+  de: Floristen
+  en: Florists
+tags:
+- key: shop
+  value: florist

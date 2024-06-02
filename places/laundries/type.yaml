@@ -1,0 +1,13 @@
+color: red
+icon: yield
+name:
+  am: የልብስ ንጽህና መስጫ
+  de: Waschsalon
+  en: Laundry
+plural:
+  am: የልብስ ንጽህና መስጫዎች
+  de: Waschsalons
+  en: Laundries
+tags:
+- key: shop
+  value: laundry

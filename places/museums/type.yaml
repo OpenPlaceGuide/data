@@ -1,0 +1,13 @@
+color: yellow
+icon: aerialway
+name:
+  am: ሙዚየም
+  de: Museum
+  en: Museum
+plural:
+  am: 'ሙዚየሞች '
+  de: Museen
+  en: Museums
+tags:
+- key: tourism
+  value: museum

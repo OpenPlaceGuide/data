@@ -1,0 +1,13 @@
+color: blue
+icon: airfield
+name:
+  am: የመኪና ማከራያ
+  de: Autovermietung
+  en: Car
+plural:
+  am: የመኪና ማከራያዎች
+  de: Autovermietungen
+  en: Car Rentals
+tags:
+- key: amenity
+  value: car_rental

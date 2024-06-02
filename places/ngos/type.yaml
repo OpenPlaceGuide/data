@@ -1,0 +1,13 @@
+color: gray
+icon: alcohol_shop
+name:
+  am: መንግስታዊ ያልሆነ ድርጅት
+  de: Nichtregierungsorganisation
+  en: Non-Governmental-Organisation (NGO)
+plural:
+  am: 'መንግስታዊ ያልሆኑ ድርጅቶች '
+  de: Nichtregierungsorganisationen
+  en: Non-Governmental-Organisations (NGOs)
+tags:
+- key: office
+  value: ngo

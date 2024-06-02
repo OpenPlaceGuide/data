@@ -1,0 +1,13 @@
+color: gray
+icon: airfield
+name:
+  am: ህንፃ
+  de: Gebäude
+  en: Building
+plural:
+  am: 'ህንፃዎች '
+  de: Gebäude
+  en: Buildings
+tags:
+- key: building
+  value: 'yes'
