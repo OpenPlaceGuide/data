@@ -1,0 +1,13 @@
+color: yellow
+icon: adit_profile
+name:
+  am: ሞቴል
+  de: Motel
+  en: Motel
+plural:
+  am: ሞቴሎች
+  de: Motels
+  en: Motels
+tags:
+- key: tourism
+  value: motel

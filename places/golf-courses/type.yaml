@@ -1,0 +1,13 @@
+color: green
+icon: yield
+name:
+  am: የጎልፍ መጫወቻ
+  de: Golfplatz
+  en: Golf Course
+plural:
+  am: የጎልፍ መጫወቻዎች
+  de: Golfplätze
+  en: Golf Courses
+tags:
+- key: leisure
+  value: golf_course

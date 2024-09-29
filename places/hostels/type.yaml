@@ -1,0 +1,13 @@
+color: yellow
+icon: adit_profile
+name:
+  am: ሆስቴል
+  de: Hostel
+  en: Hostel
+plural:
+  am: 'ሆስቴሎች '
+  de: Hostels
+  en: Hostels
+tags:
+- key: tourism
+  value: hostel

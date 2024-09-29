@@ -1,0 +1,13 @@
+color: blue
+icon: abseiling
+name:
+  am: መፀዳጃ ቤት
+  de: Toiletten
+  en: Toilets
+plural:
+  am: መፀዳጃ ቤቶች
+  de: Toiletten
+  en: Toilets
+tags:
+- key: amenity
+  value: toilets

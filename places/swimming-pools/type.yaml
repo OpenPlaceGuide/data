@@ -1,0 +1,13 @@
+color: gray
+icon: yield
+name:
+  am: ዋና
+  de: Schwimmbad
+  en: Swimming
+plural:
+  am: ዋና
+  de: Schwimmbäder
+  en: Swimming Pools
+tags:
+- key: sport
+  value: swimming

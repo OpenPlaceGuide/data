@@ -1,0 +1,9 @@
+color: red
+icon: yield
+name:
+  en: Department Store
+plural:
+  en: Department Stores
+tags:
+- key: shop
+  value: department_store

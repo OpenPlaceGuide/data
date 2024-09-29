@@ -1,0 +1,9 @@
+color: gray
+icon: aerialway
+name:
+  en: Industrial Office
+plural:
+  en: Industrial Offices
+tags:
+- key: building
+  value: industrial

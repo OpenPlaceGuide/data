@@ -1,0 +1,13 @@
+color: blue
+icon: airfield
+name:
+  am: ኤምባሲ
+  de: Botschaft
+  en: Embassy
+plural:
+  am: ኤምባሲዎች
+  de: Botschaften
+  en: Embassies
+tags:
+- key: amenity
+  value: embassy

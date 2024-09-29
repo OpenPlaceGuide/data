@@ -1,0 +1,13 @@
+color: blue
+icon: accessible_space
+name:
+  am: እስር ቤት
+  de: Gefängnis
+  en: Prison
+plural:
+  am: እስር ቤቶች
+  de: Gefängnisse
+  en: Prisons
+tags:
+- key: amenity
+  value: prison

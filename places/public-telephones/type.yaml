@@ -1,0 +1,13 @@
+color: blue
+icon: aerialway
+name:
+  am: የህዝብ ስልክ
+  de: Telefon
+  en: Telephone
+plural:
+  am: የህዝብ ስልኮች
+  de: Telefone
+  en: Telephones
+tags:
+- key: amenity
+  value: telephone

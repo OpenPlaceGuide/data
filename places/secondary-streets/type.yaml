@@ -1,0 +1,13 @@
+color: gray
+icon: adit_profile
+name:
+  am: ሁለተኛ መንገድ
+  de: Straße
+  en: Street
+plural:
+  am: 'ሁለተኛ መንገዶች '
+  de: Straßen
+  en: Secondary Streets
+tags:
+- key: highway
+  value: secondary

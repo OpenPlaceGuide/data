@@ -1,0 +1,13 @@
+color: red
+icon: airfield
+name:
+  am: የገበያ ማዕከል
+  de: Supermarkt
+  en: Supermarket
+plural:
+  am: 'የገበያ ማዕከላት '
+  de: Supermärkte
+  en: Supermarkets
+tags:
+- key: shop
+  value: supermarket

@@ -1,0 +1,13 @@
+color: red
+icon: aerialway
+name:
+  am: ደረቅ እጥበት
+  de: Reinigung
+  en: Dry Cleaner
+plural:
+  am: ደረቅ እጥበቶች
+  de: Reinigung
+  en: Dry Cleaners
+tags:
+- key: shop
+  value: dry_cleaning

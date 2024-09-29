@@ -9,5 +9,7 @@ plural:
   en: banks
   am: ባንኮች
   de: Banken
-icon: bank
 color: blue
+logo: banks.png
+description:
+  en: Banks provide essential financial services like savings and checking accounts, loans, and mortgages. They ensure safe money deposits, offer credit, and support businesses with financing. Key types include commercial banks, savings and loan associations, and credit unions.

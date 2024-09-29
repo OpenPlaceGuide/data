@@ -1,0 +1,13 @@
+color: blue
+icon: airport
+name:
+  am: ታክሲ
+  de: Taxi
+  en: Taxi
+plural:
+  am: ታክዎች
+  de: Taxen
+  en: Taxis
+tags:
+- key: amenity
+  value: taxi

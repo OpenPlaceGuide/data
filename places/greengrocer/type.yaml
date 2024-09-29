@@ -1,0 +1,13 @@
+color: red
+icon: yield
+name:
+  am: አትክልት መሸጫ ሱቆች
+  de: Gemüsehändler
+  en: Greengrocer
+plural:
+  am: አትክልት መሸጫ ሱቆች
+  de: Gemüsehändler
+  en: Greengrocers
+tags:
+- key: shop
+  value: greengrocer

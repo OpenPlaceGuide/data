@@ -1,0 +1,13 @@
+color: blue
+icon: aerialway_pole
+name:
+  am: ፈጣን ምግብ
+  de: Fast Food
+  en: Fast Food
+plural:
+  am: ፈጣን ምግቤቶች
+  de: Fast Food Restaurants
+  en: Fast Food
+tags:
+- key: amenity
+  value: fast_food

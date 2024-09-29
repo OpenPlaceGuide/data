@@ -1,0 +1,13 @@
+color: red
+icon: airfield
+name:
+  am: ጫማ ቤት
+  de: Schuhladen
+  en: Shoes
+plural:
+  am: ጫማ ቤቶች
+  de: Schuhläden
+  en: Shoe Stores
+tags:
+- key: shop
+  value: shoes

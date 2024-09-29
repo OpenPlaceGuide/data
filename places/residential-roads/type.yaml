@@ -1,0 +1,13 @@
+color: gray
+icon: zoo
+name:
+  am: የመኖሪያ አካባቢ መንገድ
+  de: Wohngebiet
+  en: Residential Road
+plural:
+  am: 'የመኖሪያ አካባቢ መንገዶች '
+  de: Wohngebiete
+  en: Residential Roads
+tags:
+- key: highway
+  value: residential

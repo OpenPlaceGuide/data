@@ -1,0 +1,11 @@
+color: red
+icon: yield
+name:
+  de: Baumarkt
+  en: Doityourself
+plural:
+  de: Baumärkte
+  en: Doityourself Stores
+tags:
+- key: shop
+  value: doityourself

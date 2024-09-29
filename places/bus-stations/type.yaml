@@ -1,0 +1,13 @@
+color: blue
+logo: bus-stations.png
+name:
+  am: አውቶቡስ መናኃሪያ
+  de: Bushaltestelle
+  en: Bus
+plural:
+  am: አውቶቡስ መናኃሪያዎች
+  de: Bushaltestellen
+  en: Bus Stations
+tags:
+- key: amenity
+  value: bus_station

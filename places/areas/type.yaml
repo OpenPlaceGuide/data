@@ -1,0 +1,12 @@
+color: gray
+name:
+  am: አካባቢ
+  de: Bezirk
+  en: Area
+plural:
+  am: አካባቢዎች
+  de: Bezirke
+  en: Areas
+tags:
+- key: place
+  value: suburb

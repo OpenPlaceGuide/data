@@ -1,0 +1,13 @@
+color: blue
+icon: accounting
+name:
+  am: መድሃኒት ቤት
+  de: Apotheke
+  en: Pharmacy
+plural:
+  am: መድሃኒት ቤቶች
+  de: Apotheken
+  en: Pharmacies
+tags:
+- key: amenity
+  value: pharmacy

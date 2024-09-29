@@ -1,0 +1,13 @@
+color: red
+icon: accounting
+name:
+  am: ኮምፒውተር
+  de: Computerladen
+  en: computer
+plural:
+  am: 'ኮምፒውተር መሸጫዎች '
+  de: Computerläden
+  en: Computer Shops
+tags:
+- key: shop
+  value: computer

@@ -1,0 +1,13 @@
+color: gray
+icon: accounting
+name:
+  am: የመንግስት ድርጅት
+  de: Behörde
+  en: Governmental Office
+plural:
+  am: የመንግስት ድርጅቶች
+  de: Behörden
+  en: Governmental Offices
+tags:
+- key: office
+  value: governmental

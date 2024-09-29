@@ -1,0 +1,13 @@
+color: blue
+icon: american_football
+name:
+  am: የእንስሳት መድሃኒት ቤት
+  de: Tierarzt
+  en: Veterinary
+plural:
+  am: የእንስሳት መድሃኒት ቤቶች
+  de: Tierärzte
+  en: Verterinaries
+tags:
+- key: amenity
+  value: veterinary

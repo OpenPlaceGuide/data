@@ -1,0 +1,9 @@
+color: blue
+icon: airport
+name:
+  en: Community Center
+plural:
+  en: Community Centers
+tags:
+- key: amenity
+  value: community_centre

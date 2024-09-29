@@ -1,0 +1,13 @@
+color: red
+logo: car-repair.png
+name:
+  am: ጋራዥ
+  de: Autowerkstatt
+  en: Car Garage
+plural:
+  am: ጋራዦች
+  de: Autowerkstätten
+  en: Car Garages
+tags:
+- key: shop
+  value: car_repair

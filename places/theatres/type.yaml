@@ -1,0 +1,13 @@
+color: blue
+icon: airport
+name:
+  am: ቲያትር ቤት
+  de: Theater
+  en: Theatre
+plural:
+  am: ቲያትር ቤቶች
+  de: Theater
+  en: Teatres
+tags:
+- key: amenity
+  value: theatre

@@ -1,0 +1,13 @@
+color: blue
+icon: yield
+name:
+  am: የመኪና ማቆሚያ
+  de: Parken
+  en: Parking
+plural:
+  am: የመኪና ማቆሚያዎች
+  de: Parken
+  en: Parking Places
+tags:
+- key: amenity
+  value: parking

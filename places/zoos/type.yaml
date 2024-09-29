@@ -1,0 +1,13 @@
+color: yellow
+icon: aerialway
+name:
+  am: የእንስሳት ግቢ
+  de: Zoo
+  en: Zoo
+plural:
+  am: 'የእንስሳት ግቢዎች '
+  de: Zoos
+  en: Zoos
+tags:
+- key: tourism
+  value: zoo

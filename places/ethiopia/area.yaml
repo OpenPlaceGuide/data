@@ -1,0 +1,9 @@
+osm:
+  id: 192800
+  type: relation
+sub_areas:
+  - addis-ababa
+name:
+  en: Ethiopia
+description:
+  en: Ethiopia is an African country.

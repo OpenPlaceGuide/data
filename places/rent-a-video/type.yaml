@@ -1,0 +1,13 @@
+color: red
+icon: abseiling
+name:
+  am: ቪዲዮ
+  de: Videothek
+  en: Video
+plural:
+  am: 'ቪዲዮ ሱቆች  '
+  de: Videotheken
+  en: Video Stores
+tags:
+- key: shop
+  value: video

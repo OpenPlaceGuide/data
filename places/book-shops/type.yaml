@@ -1,0 +1,13 @@
+color: red
+logo: book-shops.png
+name:
+  am: መፃሕፍት መሸጫ
+  de: Buchhandel
+  en: Books
+plural:
+  am: 'መፃሕፍት መሸጫዎች '
+  de: Buchhändler
+  en: Book Shops
+tags:
+- key: shop
+  value: books

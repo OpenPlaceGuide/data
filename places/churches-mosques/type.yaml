@@ -1,0 +1,13 @@
+color: blue
+logo: churches-mosques.png
+name:
+  am: የእምነት ቦታ
+  de: Kirche/Moschee
+  en: Church or Mosque
+plural:
+  am: የእምነት ቦታዎች
+  de: Kirchen/Moscheen
+  en: Churches & Mosques
+tags:
+- key: amenity
+  value: place_of_worship

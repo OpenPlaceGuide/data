@@ -1,0 +1,13 @@
+color: yellow
+icon: accessible_space
+name:
+  am: ሆቴል
+  de: Hotel
+  en: Hotel
+plural:
+  am: ሆቴሎች
+  de: Hotels
+  en: Hotels
+tags:
+- key: tourism
+  value: hotel

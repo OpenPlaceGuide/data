@@ -1,0 +1,9 @@
+color: gray
+icon: accounting
+name:
+  en: 'Real Estate Agent '
+plural:
+  en: Real Estates Agents
+tags:
+- key: office
+  value: estate_agent

@@ -1,0 +1,13 @@
+color: blue
+logo: car-sharing.png
+name:
+  am: የመኪና ዕቃ መለዋወጫ መሸጫ
+  de: Carsharing
+  en: Car
+plural:
+  am: 'የመኪና መለዋወጫ ዕቃ መሸጫዎች  '
+  de: Carsharing
+  en: Car Sharing
+tags:
+- key: amenity
+  value: car_sharing

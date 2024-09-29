@@ -1,0 +1,13 @@
+color: gray
+icon: airfield
+name:
+  am: እግር ኳስ
+  de: Fußball
+  en: Football
+plural:
+  am: እግር ኳስ
+  de: Fußball
+  en: Football Fields
+tags:
+- key: sport
+  value: football

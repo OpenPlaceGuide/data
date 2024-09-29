@@ -1,0 +1,144 @@
+osmBranches:
+  - type: node
+    id: 462248362
+  - type: node
+    id: 726512060
+  - type: node
+    id: 732447961
+  - type: node
+    id: 790008120
+  - type: node
+    id: 838787498
+  - type: node
+    id: 849596902
+  - type: node
+    id: 849596990
+  - type: node
+    id: 912018451
+  - type: node
+    id: 1435256474
+  - type: node
+    id: 1435262296
+  - type: node
+    id: 1691647781
+  - type: node
+    id: 1697757571
+  - type: node
+    id: 1700234295
+  - type: node
+    id: 1700234296
+  - type: node
+    id: 1700234297
+  - type: node
+    id: 1701465207
+  - type: node
+    id: 1701465208
+  - type: node
+    id: 1701593715
+  - type: node
+    id: 1701593730
+  - type: node
+    id: 1701729793
+  - type: node
+    id: 2041750980
+  - type: node
+    id: 2041750981
+  - type: node
+    id: 2047651254
+  - type: node
+    id: 2087200962
+  - type: node
+    id: 2348685486
+  - type: node
+    id: 4295718962
+  - type: node
+    id: 4305934091
+  - type: node
+    id: 4319747696
+  - type: node
+    id: 4319761191
+  - type: node
+    id: 4369176789
+  - type: node
+    id: 4452903089
+  - type: node
+    id: 4564459889
+  - type: node
+    id: 4739170222
+  - type: node
+    id: 4967280573
+  - type: node
+    id: 5074887923
+  - type: node
+    id: 5225071323
+  - type: node
+    id: 5227845523
+  - type: node
+    id: 5926298142
+  - type: node
+    id: 6066764275
+  - type: node
+    id: 6310685318
+  - type: node
+    id: 6622572042
+  - type: node
+    id: 6622593882
+  - type: node
+    id: 6622593887
+  - type: node
+    id: 6715621478
+  - type: node
+    id: 6716252373
+  - type: node
+    id: 6716252419
+  - type: node
+    id: 6718462622
+  - type: node
+    id: 6718462644
+  - type: node
+    id: 6718462646
+  - type: node
+    id: 6718462652
+  - type: node
+    id: 6718484012
+  - type: node
+    id: 6718712763
+  - type: node
+    id: 6718712770
+  - type: node
+    id: 6753068483
+  - type: node
+    id: 6759973732
+  - type: node
+    id: 6759975629
+  - type: node
+    id: 6782265155
+  - type: node
+    id: 6782306225
+  - type: node
+    id: 7179536169
+  - type: node
+    id: 7179536265
+  - type: node
+    id: 7226588011
+  - type: node
+    id: 7835650301
+  - type: node
+    id: 9132055937
+  - type: node
+    id: 11508014151
+  - type: way
+    id: 42553521
+  - type: way
+    id: 42974929
+  - type: way
+    id: 42981890
+  - type: way
+    id: 42981891
+  - type: way
+    id: 48893697
+  - type: way
+    id: 51548011
+
+logo: "commercial-bank-of-ethiopia.png"
+color: red

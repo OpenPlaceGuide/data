@@ -1,0 +1,13 @@
+color: blue
+icon: abseiling
+name:
+  am: የምሽት ክለብ
+  de: Club
+  en: Nightclub
+plural:
+  am: የምሽት ክለቦች
+  de: Clubs
+  en: Nightclubs
+tags:
+- key: amenity
+  value: nightclub

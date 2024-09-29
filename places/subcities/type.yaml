@@ -1,0 +1,13 @@
+color: gray
+icon: alcohol_shop
+name:
+  am: ክፍለ ከተማ
+  de: Stadteil
+  en: Subcity
+plural:
+  am: 'ክፍለ ከተማዎች '
+  de: Stadtteile
+  en: Subcities
+tags:
+- key: place
+  value: subcity

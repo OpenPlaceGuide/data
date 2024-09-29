@@ -1,0 +1,13 @@
+color: red
+icon: accessible_space
+name:
+  am: የጽሕፈት መሳሪያ መሸጫ
+  de: Schreibwaren
+  en: Stationary
+plural:
+  am: 'የጽሕፈት መሳሪያ መሸጫዎች '
+  de: Schreibwarenläden
+  en: Stationaries
+tags:
+- key: shop
+  value: stationery

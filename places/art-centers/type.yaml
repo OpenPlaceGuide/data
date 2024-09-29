@@ -1,0 +1,13 @@
+color: blue
+logo: art-centers.png
+name:
+  am: የኪነጥበብ ማዕከል
+  de: Kunstladen
+  en: Arts
+plural:
+  am: 'የኪነጥበብ ማዕከላት '
+  de: Kunstläden
+  en: Arts
+tags:
+- key: amenity
+  value: arts_centre

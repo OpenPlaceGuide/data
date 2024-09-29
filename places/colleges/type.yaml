@@ -1,0 +1,13 @@
+color: blue
+icon: accounting
+name:
+  am: ኮሌጅ
+  de: College
+  en: College
+plural:
+  am: ኮሌጆች
+  de: Colleges
+  en: Colleges
+tags:
+- key: amenity
+  value: college

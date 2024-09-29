@@ -1,0 +1,13 @@
+color: blue
+icon: american_football
+name:
+  am: ፖስታ ቤት
+  de: Postamt
+  en: Post Office
+plural:
+  am: ፖስታ ቤቶች
+  de: Postämter
+  en: Post Offices
+tags:
+- key: amenity
+  value: post_office

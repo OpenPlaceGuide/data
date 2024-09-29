@@ -1,0 +1,13 @@
+color: blue
+icon: accounting
+name:
+  am: ነዳጅ ማደያ
+  de: Tankstelle
+  en: FuelStation
+plural:
+  am: 'ነዳጅ ማደያዎች '
+  de: Tankstellen
+  en: Fuel-Stations
+tags:
+- key: amenity
+  value: fuel

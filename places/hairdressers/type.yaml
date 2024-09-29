@@ -1,0 +1,13 @@
+color: red
+icon: yield
+name:
+  am: ፀጉር ቤት
+  de: Frisör
+  en: Hairdresser
+plural:
+  am: ፀጉር ቤቶች
+  de: Frisöre
+  en: Hairdressers
+tags:
+- key: shop
+  value: hairdresser

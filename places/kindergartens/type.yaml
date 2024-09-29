@@ -1,0 +1,13 @@
+color: blue
+icon: adit_profile
+name:
+  am: ሕፃናት መዋያ
+  de: Kindergarten
+  en: Kindergarten
+plural:
+  am: ሕፃናት መዋያዎች
+  de: Kindergärten
+  en: Kindergartens
+tags:
+- key: amenity
+  value: kindergarten

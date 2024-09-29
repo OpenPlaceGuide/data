@@ -1,0 +1,13 @@
+color: red
+icon: accounting
+name:
+  am: ኤሌክትሮኒክስ መሸጫ ሱቅ
+  de: Elektronikhandel
+  en: Electronics
+plural:
+  am: ኤሌክትሮኒክስ መሸጫ ሱቆች
+  de: Elektronikhandel
+  en: Electronic Stores
+tags:
+- key: shop
+  value: electronics

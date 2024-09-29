@@ -1,0 +1,13 @@
+color: gray
+icon: airport
+name:
+  am: ኢንተርኔት ካፌ
+  de: Internet Cafe
+  en: Internet Cafe
+plural:
+  am: ኢንተርኔት ካፌዎች
+  de: Internet Cafes
+  en: Internet Cafes
+tags:
+- key: internet_access
+  value: terminal

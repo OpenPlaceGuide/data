@@ -1,0 +1,13 @@
+color: gray
+icon: accessible_space
+name:
+  am: ኢንዱስትሪ
+  de: Industrie
+  en: Industry
+plural:
+  am: 'ኢንዱስትሪዎች '
+  de: Industrien
+  en: Industries
+tags:
+- key: landuse
+  value: industrial

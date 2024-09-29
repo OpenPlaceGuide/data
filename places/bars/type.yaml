@@ -1,0 +1,13 @@
+color: blue
+logo: bars.png
+name:
+  am: ቡና ቤት
+  de: Bar
+  en: Bar
+plural:
+  am: ቡና ቤቶች
+  de: Bars
+  en: Bars
+tags:
+- key: amenity
+  value: bar

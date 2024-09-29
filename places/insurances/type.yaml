@@ -1,0 +1,9 @@
+color: gray
+icon: adit_profile
+name:
+  en: Insurance
+plural:
+  en: Insurances
+tags:
+- key: office
+  value: insurance
