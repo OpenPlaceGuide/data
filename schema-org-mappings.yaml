@@ -1,0 +1,215 @@
+# Schema.org Type Mappings for OpenPlaceGuide
+# Maps POI types and areas to appropriate schema.org types
+
+# Place/Business Type Mappings
+place_types:
+  # Financial Services
+  banks: "https://schema.org/BankOrCreditUnion"
+  insurances: "https://schema.org/InsuranceAgency"
+  
+  # Food & Dining
+  restaurants: "https://schema.org/Restaurant"
+  cafes: "https://schema.org/CafeOrCoffeeShop"
+  bars: "https://schema.org/BarOrPub"
+  pubs: "https://schema.org/BarOrPub"
+  fast-food: "https://schema.org/FastFoodRestaurant"
+  
+  # Accommodation
+  hotels: "https://schema.org/Hotel"
+  motels: "https://schema.org/Motel"
+  hostels: "https://schema.org/Hostel"
+  guest-houses: "https://schema.org/BedAndBreakfast"
+  
+  # Retail Shops
+  supermarkets: "https://schema.org/GroceryStore"
+  department-stores: "https://schema.org/DepartmentStore"
+  book-shops: "https://schema.org/BookStore"
+  shoe-shops: "https://schema.org/ShoeStore"
+  buy-clothes: "https://schema.org/ClothingStore"
+  buy-flowers: "https://schema.org/Florist"
+  electronics: "https://schema.org/ElectronicsStore"
+  furniture-shops: "https://schema.org/FurnitureStore"
+  computer-shops: "https://schema.org/ComputerStore"
+  car-shops: "https://schema.org/AutoDealer"
+  hardware: "https://schema.org/HardwareStore"
+  butchers: "https://schema.org/LocalBusiness"
+  greengrocer: "https://schema.org/LocalBusiness"
+  organic-shops: "https://schema.org/LocalBusiness"
+  kiosks: "https://schema.org/LocalBusiness"
+  stationaries: "https://schema.org/LocalBusiness"
+  
+  # Healthcare
+  hospitals: "https://schema.org/Hospital"
+  doctors: "https://schema.org/MedicalClinic"
+  dentists: "https://schema.org/Dentist"
+  pharmacies: "https://schema.org/Pharmacy"
+  opticians: "https://schema.org/LocalBusiness"
+  verterinaries: "https://schema.org/VeterinaryCare"
+  
+  # Education
+  schools: "https://schema.org/School"
+  kindergartens: "https://schema.org/Preschool"
+  colleges: "https://schema.org/CollegeOrUniversity"
+  universities: "https://schema.org/CollegeOrUniversity"
+  libraries: "https://schema.org/Library"
+  
+  # Entertainment & Culture
+  cinemas: "https://schema.org/MovieTheater"
+  theatres: "https://schema.org/PerformingArtsTheater"
+  museums: "https://schema.org/Museum"
+  nightclubs: "https://schema.org/NightClub"
+  zoos: "https://schema.org/Zoo"
+  art-centers: "https://schema.org/LocalBusiness"
+  
+  # Sports & Recreation
+  gyms: "https://schema.org/ExerciseGym"
+  swimming-pools: "https://schema.org/SportsActivityLocation"
+  stadiums: "https://schema.org/Stadium"
+  golf-courses: "https://schema.org/GolfCourse"
+  bowling: "https://schema.org/BowlingAlley"
+  football-fields: "https://schema.org/SportsActivityLocation"
+  tennis-courts: "https://schema.org/SportsActivityLocation"
+  
+  # Automotive
+  get-fuel: "https://schema.org/GasStation"
+  car-repair: "https://schema.org/AutoRepair"
+  rent-a-car: "https://schema.org/AutoRental"
+  car-sharing: "https://schema.org/LocalBusiness"
+  
+  # Transportation
+  airports: "https://schema.org/Airport"
+  bus-stations: "https://schema.org/BusStation"
+  taxi: "https://schema.org/TaxiService"
+  parking: "https://schema.org/ParkingFacility"
+  
+  # Government & Public Services
+  governmental-offices: "https://schema.org/GovernmentOffice"
+  embassies: "https://schema.org/Embassy"
+  post-offices: "https://schema.org/PostOffice"
+  police-stations: "https://schema.org/PoliceStation"
+  fire-stations: "https://schema.org/FireStation"
+  courthouses: "https://schema.org/Courthouse"
+  prisons: "https://schema.org/LocalBusiness"
+  public-buildings: "https://schema.org/GovernmentBuilding"
+  
+  # Religious & Community
+  churches-mosques: "https://schema.org/PlaceOfWorship"
+  community-center: "https://schema.org/CommunityCenter"
+  grave-yards: "https://schema.org/Cemetery"
+  
+  # Utilities & Services
+  internet-cafes: "https://schema.org/LocalBusiness"
+  laundries: "https://schema.org/LaundryService"
+  dry-cleaners: "https://schema.org/DryCleaningOrLaundry"
+  hairdressers: "https://schema.org/BeautySalon"
+  post-boxes: "https://schema.org/LocalBusiness"
+  public-toilets: "https://schema.org/PublicToilet"
+  public-telephones: "https://schema.org/LocalBusiness"
+  
+  # Housing & Real Estate
+  apartments: "https://schema.org/Residence"
+  houses: "https://schema.org/House"
+  estate_agents: "https://schema.org/RealEstateAgent"
+  
+  # Other Services
+  studios: "https://schema.org/LocalBusiness"
+  rent-a-video: "https://schema.org/LocalBusiness"
+  ngos: "https://schema.org/NGO"
+  businesses: "https://schema.org/LocalBusiness"
+  
+  # Default fallback for unknown types
+  ~fallback_type: "https://schema.org/LocalBusiness"
+
+# Area Type Mappings
+area_types:
+  # Administrative divisions
+  cities: "https://schema.org/City"
+  cities2: "https://schema.org/City"
+  subcities: "https://schema.org/AdministrativeArea"
+  areas: "https://schema.org/AdministrativeArea"
+  
+  # Infrastructure & Places
+  buildings: "https://schema.org/Place"
+  gardens: "https://schema.org/Park"
+  
+  # Street types (may be used for area categorization)
+  main-streets: "https://schema.org/Place"
+  secondary-streets: "https://schema.org/Place"
+  tertiary-streets: "https://schema.org/Place"
+  residential-roads: "https://schema.org/Place"
+  
+  # Industrial areas
+  industrial: "https://schema.org/Place"
+  industrials: "https://schema.org/Place"
+
+# Schema.org Property Mappings
+# Maps available data fields to schema.org properties
+property_mappings:
+  place:
+    # Basic identification
+    name: "name"
+    logo: "logo"
+    gallery: "image"
+    color: "brand/color"  # Custom property for branding
+    
+    # Geographic data
+    lat: "geo/latitude"
+    lon: "geo/longitude"
+    
+    # OSM integration
+    osm_id: "additionalProperty"
+    osm_type: "additionalProperty"
+    
+    # Tags and classification
+    tags: "additionalProperty"
+    
+  area:
+    # Basic identification  
+    name: "name"
+    description: "description"
+    
+    # Geographic data
+    boundingBox: "geo"
+    
+    # Hierarchical relationships
+    sub_areas: "containsPlace"
+    
+    # OSM integration
+    osm_id: "additionalProperty"
+    osm_type: "additionalProperty"
+
+# Language support for multilingual properties
+languages:
+  supported: ["en", "am", "de"]
+  default: "en"
+  property_suffix: true  # Whether to add language suffix to properties (e.g., "name@en")
+
+# Special mappings for specific schema.org requirements
+special_mappings:
+  # Opening hours (if available in tags)
+  opening_hours: "openingHours"
+  
+  # Contact information (if available in tags)  
+  phone: "telephone"
+  website: "url"
+  email: "email"
+  
+  # Address information (derived from OSM data)
+  address: "address"
+  
+  # Social media (if available)
+  facebook: "sameAs"
+  twitter: "sameAs"
+  instagram: "sameAs"
+
+# Validation rules
+validation:
+  required_properties:
+    place: ["name", "geo"]
+    area: ["name"]
+  
+  # Properties that should be URLs
+  url_properties: ["logo", "image", "url", "sameAs"]
+  
+  # Properties that should be multilingual
+  multilingual_properties: ["name", "description"]
