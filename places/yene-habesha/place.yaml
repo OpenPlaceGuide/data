@@ -1,3 +1,7 @@
 osm:
    id: 13997208499
    type: node
+
+logo: "yene-habesha.jpg"
+
+color: green
