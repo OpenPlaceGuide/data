@@ -2,6 +2,14 @@ osm:
    id: 13997208499
    type: node
 
+gallery:
+  - file: "main.jpg"
+    en: "Yene Habesha"
+  - file: "gold-dress.jpg"
+    en: "Gold Ethiopian Traditional Dress"
+  - file: "kid-dress.jpg"
+    en: "Ethiopian Traditional Dress for Kids"
+    
 logo: "yene-habesha.jpg"
 
 color: green
